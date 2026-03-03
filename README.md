@@ -8,12 +8,13 @@
    https://www.deepsense6g.net/scenarios/Scenarios%201-9/scenario-9
 
 3. Extract the dataset under:
-   
+
+```text
 dataset/
 └── scenario9/
     ├── unit1/
     └── scenario9.csv
- 
+ ```
 5. Run the preprocessing scripts CSV_process.py and gen_data_seq.py in order:
 Two processed CSV files will be generated under: dataset/scenario9/
 

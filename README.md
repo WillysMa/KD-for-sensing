@@ -15,11 +15,8 @@ dataset/
     ├── unit1/
     └── scenario9.csv
  ```
-5. Run the preprocessing scripts CSV_process.py and gen_data_seq.py in order:
-Two processed CSV files will be generated under:
-```python
- dataset/scenario9/
-```
+5. Run the preprocessing scripts CSV_process.py and gen_data_seq.py in order
+
 ## Explanation:
 -- run train.py to train the teacher model without KD
 

@@ -7,7 +7,7 @@
 2. Download **Scenario 9** from:  
    https://www.deepsense6g.net/scenarios/Scenarios%201-9/scenario-9
 
-3. Extract the dataset under:
+3. Extract the dataset to form the file structure:
 
 ```text
 dataset/

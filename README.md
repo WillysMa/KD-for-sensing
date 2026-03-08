@@ -19,6 +19,7 @@ dataset/
 
 ## Training model:
 -- run train_both.py to train model based on both image and radar data. 
+
 -- run train_image.py to train model based on only image data. 
 
 1) kd_mode=0: no KD 2) kd_mode=1: conventional KD 3) kd_mode=2: relational KD
@@ -26,6 +27,7 @@ dataset/
 ## Testing model
 All trained model along with the hyparameters are under the folder: All_models/
 -- run test_model_both.py to test the model based on both modalities
+
 -- run test_model_image.py to test the model based only image
 
 ### Models and hyperparameters:

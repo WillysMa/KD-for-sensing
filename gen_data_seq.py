@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
     in_len = 8
     out_len = 3
-    training_set_pct = 0.8
+    training_set_pct = 0.7
     OUTPUT_SUFFIX = '_RA'
     csv_path = os.path.join(data_root, f'scenario9{OUTPUT_SUFFIX}.csv')
 

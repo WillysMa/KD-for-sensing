@@ -26,6 +26,7 @@ dataset/
 
 ## Testing model
 All trained model along with the hyparameters are under the folder: All_models/
+
 -- run test_model_both.py to test the model based on both modalities
 
 -- run test_model_image.py to test the model based only image

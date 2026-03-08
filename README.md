@@ -1,6 +1,6 @@
 # Knowledge Distillation (KD) for Collaborative Learning in Distributed Communications and Sensing
 
-## Dataset Preparation (Step 1)
+## Dataset Preparation
 
 1. Download the project and extract it to your local machine.
 

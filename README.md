@@ -1,4 +1,4 @@
-# Knowledge Distillation (KD) for Collaborative Learning in Distributed Communications and Sensing
+
 
 ## Dataset Preparation
 

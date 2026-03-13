@@ -15,7 +15,7 @@ dataset/
     ├── unit1/
     └── scenario9.csv
  ```
-5. Run the preprocessing scripts CSV_process.py and gen_data_seq.py in order
+4. Run the preprocessing scripts CSV_process.py and gen_data_seq.py in order
 
 ## Training model:
 -- run train_both.py to train model based on both image and radar data. 
